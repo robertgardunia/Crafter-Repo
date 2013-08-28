@@ -2704,7 +2704,7 @@ section.blurb.blurb-centered h1, div.blurb.blurb-centered h1, section.blurb.blur
     height: 90px;
     line-height: 90px;
     margin: 0;
-    padding-left: 155px;
+    <!-- ALTERED padding-left: 155px; -->
     position: relative;
     width: 400px;
 }

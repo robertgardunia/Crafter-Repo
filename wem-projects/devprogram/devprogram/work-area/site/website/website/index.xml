@@ -6,19 +6,19 @@
 	<placeInNav>false</placeInNav>
 	<descriptor-mapper>hierarchical-mapper</descriptor-mapper>
 	<file-name>index.xml</file-name>
-	<internal-name>Home</internal-name>
-	<title>Home</title>
+	<internal-name>References</internal-name>
+	<title>Reference Library</title>
 	<meta-description>example</meta-description>
 	<corporateKeywords/>
 	<meta-keywords>example</meta-keywords>
-	<orderDefault_f>-1</orderDefault_f>
+	<orderDefault_f>3000.0</orderDefault_f>
 	<body>Hello World!</body>
-	<objectGroupId>6340</objectGroupId>
-	<objectId>63408780-1df7-78f8-d748-3cef2d95e1e7</objectId>
-	<folder-name/>
+	<objectGroupId>fb31dab4</objectGroupId>
+	<objectId>fb31dab4-f168-41b5-b402-a0e12c67160e</objectId>
+	<folder-name>website</folder-name>
 	<headerConfig>/templates/web/header/header-config.ftl</headerConfig>
 	<createdDate>08/20/2013 07:58:56</createdDate>
-	<lastModifiedDate>08/28/2013 05:01:32</lastModifiedDate>
+	<lastModifiedDate>08/28/2013 05:01:41</lastModifiedDate>
 	<headerCommon>/templates/web/header/header-common.ftl</headerCommon>
 	<headerMedia>/templates/web/header/header-media.ftl</headerMedia>
 	<footerCommon>/templates/web/footer/footer-common.ftl</footerCommon>

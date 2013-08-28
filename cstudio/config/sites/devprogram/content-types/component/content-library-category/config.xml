@@ -1,6 +1,6 @@
-<content-type name="/component/video" is-wcm-type="true">
-<label>Video</label>
-<form>/component/video</form>
+<content-type name="/component/content-library-category" is-wcm-type="true">
+<label>CONTENT: Library Category</label>
+<form>/component/content-library-category</form>
 <form-path>simple</form-path>
 <model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
 <file-extension>xml</file-extension>
