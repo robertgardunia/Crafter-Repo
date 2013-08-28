@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/meta-template</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>31bcbc54</objectGroupId>
+	<objectId>31bcbc54-ea2c-42c5-9594-58f0a6cd6c04</objectId>
+	<file-name>footer-common.xml</file-name>
+	<internal-name>Footer Common</internal-name>
+	<templatePath>/templates/web/footer/footer-common.ftl</templatePath>
+	<createdDate>08/22/2013 02:41:28</createdDate>
+	<lastModifiedDate>08/22/2013 05:37:15</lastModifiedDate>
+</component>

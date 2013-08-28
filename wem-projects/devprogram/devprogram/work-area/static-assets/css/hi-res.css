@@ -1,0 +1,153 @@
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 144dpi)  {
+
+  .broken-link {
+    background-image: url('/images/hi-res/icon-broken-link.png') !important;
+    background-size: 80px !important;
+  }
+  .magnifying-glass {
+    background-image: url('/images/hi-res/icon-search.png') !important;
+    background-size: 17px !important;
+  }
+
+  .aro-video {
+    background-image: url('/images/hi-res/aro-video.png') !important;
+    background-size: 768px !important;
+  }
+
+  .carousel {
+    background-image: url('/images/hi-res/mobile-api0.png') !important;
+    background-size: 460px !important;
+  }
+
+  .api-icon > i     { background-image: url('/images/hi-res/api-icons-sprite.png') !important; }
+  .rounded-icon > i { background-image: url('/images/hi-res/api-icons-sprite.png') !important; }
+
+  .app-icon {
+    background-image: url('/images/hi-res/app-default.png') !important;
+    background-size: 115px !important;
+  }
+
+  #voxy .cs-mobile-img {
+    background-image: url('/images/hi-res/voxy-mobile-api.png') !important;
+  }
+  #dropinmedia .cs-mobile-img {
+    background-image: url('/images/hi-res/dropinmedia-mobile-api.png') !important;
+  }
+
+  #voxy .logo {
+    background-image: url('/images/hi-res/voxy-logo.png') !important;
+  }
+  #dropinmedia .logo {
+    background-image: url('/images/hi-res/dropinmedia-logo.png') !important;
+  }
+
+  .pricing-page .call-us {
+    background-image: url('/images/hi-res/call-us.png') !important;
+  }
+
+  #aro .aro-managment {
+    background-image: url('/images/hi-res/aro-managment.png') !important;
+    background-size: 530px !important;
+  }
+
+  .benefits .icon {
+    background-image: url('/images/hi-res/icons-benefits.png') !important;
+    background-size: 1250px !important;
+  }
+
+  .button-icon:after {
+    background-image: url('/images/hi-res/button-icons-sprite.png') !important;
+    background-size: 35px !important;
+  }
+
+  .form-icon, .form-icon-after:after {
+    background-image: url('/images/hi-res/form-icons-sprite.png') !important;
+    background-size: 32px !important;
+  }
+
+  #apps .retina-icon,
+  #apps .icon-after:after,
+  #errors .icon-after:after {
+    background-image: url('/images/hi-res/apps-icons-sprite.png') !important;
+    background-size: 16px !important;
+  }
+
+  #community .retina-icon,
+  #community .icon-after:after {
+    background-image: url('/images/hi-res/community-icons-sprite.png') !important;
+    background-size: 22px !important;
+  }
+
+  .big-icon {
+    background-image: url('/images/hi-res/big-icons-sprite.png') !important;
+    background-size: 80px !important;
+  }
+
+  .social-icon {
+    background-image: url('/images/hi-res/social-icons.png') !important;
+    background-size: 76px !important;
+  }
+
+  .enhancing-apps { 
+    background-image: url('/images/hi-res/community-enhancing-apps.png') !important;
+    background-size: 296px !important;
+  }
+  .venture-partners { 
+    background-image: url('/images/hi-res/community-venture-partners.png') !important;
+    background-size: 296px !important;
+  }
+  .app-discovery  { 
+    background-image: url('/images/hi-res/community-app-discovery.png') !important;
+    background-size: 296px !important;
+  }
+
+ .att,
+ .nuance {
+    background-image: url('/images/hi-res/icons-table-sprite.png') !important;
+  }
+
+  .left-handle:after,
+  .right-handle:after {
+    background-image: url('/images/hi-res/handle.png') !important;
+    background-size: 20px !important;
+  }
+
+  .awards .icon { background-image: url('/images/hi-res/aro-awards.png') !important; }
+
+  .compatibility .api {
+    background-image: url('/images/hi-res/icons-compatibility-sprite.png') !important;
+    background-size: 564px !important;
+  }
+
+  #mobile-api0 {
+    background-image: url('/images/hi-res/mobile-api0.png') !important;
+    background-size: 462px !important;
+  }
+  #mobile-api1 {
+    background-image: url('/images/hi-res/mobile-api1.png') !important;
+    background-size: 462px !important;
+  }
+  #mobile-api2 {
+    background-image: url('/images/hi-res/mobile-api2.png') !important;
+    background-size: 462px !important;
+  }
+
+  .healthy .icon {
+    background-image: url('/images/hi-res/healthy-icon.png') !important;
+    background-size: 28px !important;
+  }
+
+  .checkbox-label, .radio-label { background-image: url('/images/hi-res/checkbox.png') !important; }
+
+  .api-study:after { background-image: url('/images/hi-res/bg-section.png') !important; }
+
+  .bg-library:after { background-image: url('/images/hi-res/bg-library.png') !important; }
+
+  .bg-sms:after  { background-image: url('/images/hi-res/bg-section-sms.png') !important;  }
+  .bg-mms:after  { background-image: url('/images/hi-res/bg-section-mms.png') !important;  }
+  .bg-immn:after { background-image: url('/images/hi-res/bg-section-immn.png') !important; }
+}
+
+.sample-apps .icon { background-image: url('/images/hi-res/docs-icons-sprite.png') !important; }
+
+#back-to-top { background-image: url('/images/hi-res/back-arrow.png') !important; }

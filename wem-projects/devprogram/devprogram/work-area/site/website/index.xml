@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>	<placeInNav>true</placeInNav>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<descriptor-mapper>hierarchical-mapper</descriptor-mapper>
+	<placeInNav>false</placeInNav>
+	<descriptor-mapper>hierarchical-mapper</descriptor-mapper>
+	<file-name>index.xml</file-name>
+	<internal-name>Home</internal-name>
+	<title>Reference Library</title>
+	<meta-description>example</meta-description>
+	<corporateKeywords/>
+	<meta-keywords>example</meta-keywords>
+	<orderDefault_f>-1</orderDefault_f>
+	<body>Hello World!</body>
+	<objectGroupId>6340</objectGroupId>
+	<objectId>63408780-1df7-78f8-d748-3cef2d95e1e7</objectId>
+	<folder-name/>
+	<headerConfig>/templates/web/header/header-config.ftl</headerConfig>
+	<createdDate>08/20/2013 07:58:56</createdDate>
+	<lastModifiedDate>08/26/2013 14:26:43</lastModifiedDate>
+	<headerCommon>/templates/web/header/header-common.ftl</headerCommon>
+	<headerMedia>/templates/web/header/header-media.ftl</headerMedia>
+	<footerCommon>/templates/web/footer/footer-common.ftl</footerCommon>
+	<headerConfigTemplate>	<item>	<key>/site/components/metadata/templates/header-config.xml</key>
+	<value>Header Configuration</value>
+	<fileType_s>undefined</fileType_s>
+	<include>/site/components/metadata/templates/header-config.xml</include>
+	</item></headerConfigTemplate>
+	<headerCommonTemplate>	<item>	<key>/site/components/metadata/templates/header-common.xml</key>
+	<value>Header Common</value>
+	<fileType_s>undefined</fileType_s>
+	<include>/site/components/metadata/templates/header-common.xml</include>
+	</item></headerCommonTemplate>
+	<headerMediaTemplate>	<item>	<key>/site/components/metadata/templates/header-media.xml</key>
+	<value>Header Media</value>
+	<fileType_s>undefined</fileType_s>
+	<include>/site/components/metadata/templates/header-media.xml</include>
+	</item></headerMediaTemplate>
+	<footerCommonTemplate>	<item>	<key>/site/components/metadata/templates/footer-common.xml</key>
+	<value>Footer Common</value>
+	<fileType_s>undefined</fileType_s>
+	<include>/site/components/metadata/templates/footer-common.xml</include>
+	</item></footerCommonTemplate>
+	<headerTitleTemplate>	<item>	<key>/site/components/metadata/templates/header-title.ftl.xml</key>
+	<value>Header Title</value>
+	<fileType_s>undefined</fileType_s>
+	<include>/site/components/metadata/templates/header-title.ftl.xml</include>
+	</item></headerTitleTemplate>
+</page>

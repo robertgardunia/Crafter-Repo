@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/meta-template</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d6f0c607</objectGroupId>
+	<objectId>d6f0c607-531e-4b1f-bf15-d59f4c897619</objectId>
+	<file-name>header-common.xml</file-name>
+	<internal-name>Header Common</internal-name>
+	<templatePath>/templates/web/header/header-common.ftl</templatePath>
+	<createdDate>08/22/2013 02:41:28</createdDate>
+	<lastModifiedDate>08/26/2013 05:41:13</lastModifiedDate>
+</component>

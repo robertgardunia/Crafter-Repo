@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/meta-template</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2059</objectGroupId>
+	<objectId>20595f36-85ec-9102-ab4e-67c964cb13a9</objectId>
+	<file-name>header-title.ftl.xml</file-name>
+	<internal-name>Header Title</internal-name>
+	<templatePath>/templates/web/header/header-title.ftl</templatePath>
+	<createdDate>08/26/2013 05:40:05</createdDate>
+	<lastModifiedDate>08/26/2013 05:40:05</lastModifiedDate>
+</component>

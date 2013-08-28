@@ -1,0 +1,35 @@
+<form>
+<title>MEDIA: Image</title>
+<description></description>
+<content-type>/component/media-image</content-type>
+<objectType>component</objectType>
+<properties>
+<property>
+<name>content-type</name>
+<label>Content Type</label>
+<value>/component/media-image</value>
+<type>string</type>
+</property>
+<property>
+<name>display-template</name>
+<label>Display Template</label>
+<value></value>
+<type>template</type>
+</property>
+<property>
+<name>merge-strategy</name>
+<label>Merge Strategy</label>
+<value>inherit-levels</value>
+<type>string</type>
+</property>
+</properties>
+<sections>
+<section>
+<title>MEDIA: Image Properties</title>
+<description></description>
+<defaultOpen>true</defaultOpen>
+<fields>
+</fields>
+</section>
+</sections>
+</form>
